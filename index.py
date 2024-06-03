@@ -4,8 +4,7 @@ riri = "2"
 
 ex1 = 2
 
-ex2 = 4
-
+ex2 = 42323
 bobu=11
 
-civ = "abobo sicogi"
+civ = "abobo sicogieee"
