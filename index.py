@@ -6,6 +6,6 @@ ex1 = 2
 
 ex2 = 4
 
-bobu=2
+bobu=1
 
 civ = "abobo sicogi"
